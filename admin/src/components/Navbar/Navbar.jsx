@@ -38,7 +38,7 @@ const Navbar = () => {
   return (
     <div>
       <div className='navbar'>
-          <img className='logo' src={assets.profile} alt="" />
+          <h1 className='logo'>Hungry.</h1>
           <img className='profile' src={assets.profile_image} alt="" />
       </div>
 
