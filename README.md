@@ -28,17 +28,6 @@ Tomato is a MERN (MongoDB, Express.js, React, Node.js) stack project that includ
 - Admin panel with dark and light themes.
 
 
-## Getting Started
-
-- First of all, you will need to create a database with Atlas MongoDB.
-- Also have a Stripe account so you can get your SECRET STRIPE KEY.
-
-<h2>🎥 Video - https://www.youtube.com/watch?v=DBMPXJJfQEA</h2>
-
-- How to create a database with MongoDB - 3:38:27.
-- Stripe Tutorial - 7:49:55.
-
-
 ## Installation
 
 <h2>How to install/setup the Front-End</h2>
@@ -73,11 +62,11 @@ npm run dev
 npm start server
 ```
 
-- [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env but donot push on github.
+- [ ] Remember to include your Database in db.js in .env but donot push on github.
 
 ## Conclusion
 
 This is my first project using the MERN stack, and while it's not fully functional yet and still has more work to be done, I assure you will appreciate my dedication and effort! 😊
 
-Let's connect on [LinkedIn](https://linkedin.com/in/zahidrahimoon) and [GitHub](https://github.com/zahidrahimoon) to follow my journey. 🚀
+Let's connect on [LinkedIn](www.linkedin.com/in/ganesh-santhosh9803) to follow my journey. 🚀
 
