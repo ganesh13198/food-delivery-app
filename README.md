@@ -68,9 +68,5 @@ npm start server
 
 This is my first project using the MERN stack, and while it's not fully functional yet and still has more work to be done, I assure you will appreciate my dedication and effort! 😊
 
-<<<<<<< HEAD
 Let's connect on [LinkedIn](www.linkedin.com/in/ganesh-santhosh9803) to follow my journey. 🚀
-=======
-Let's connect on [LinkedIn](www.linkedin.com/in/ganesh-santhosh9803)  to follow my journey. 🚀
->>>>>>> cc2612cf5424a514be982aa9435a2eba7e3482b1
 
